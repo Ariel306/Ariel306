@@ -6,7 +6,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de Mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-🌱 &nbsp;Actualmente estoy aprendiendo **Desarrollo WEB Full-Stack**
+🌱 &nbsp;Actualmente estoy aprendiendo **Desarrollo WEB Full-Stack**.\
 👨‍💻 &nbsp;En la actualidad me encuentro trabajando en Hilton Mendoza como Tecnico Senior.\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
 🎓 &nbsp;Me gradue hace poco de 2 carreras. Redes de datos y Telecomunicaciones y Analista en sistemas y Programacion.\
