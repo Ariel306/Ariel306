@@ -19,6 +19,6 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,java,php,css,html,js,nodejs,mysql,discord,git,github,gmail,linkedin,eclipse,vscode,bash,linux,windows,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,java,php,css,html,js,nodejs,mysql,discord,git,github,gmail,linkedin,eclipse,vscode,linux,windows,ps&perline=12" />
   </a>
 </p>
