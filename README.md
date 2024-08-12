@@ -10,7 +10,7 @@
 👨‍💻 &nbsp;En la actualidad me encuentro trabajando en Hilton Mendoza como Tecnico Senior.\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
 🎓 &nbsp;Soy graduado en dos carreras: Redes de Datos y Telecomunicaciones, y Analista en Sistemas y Programación.\
-🌱 &nbsp;Me encuentro repasando y aprendiendo JavaScript en profundida.\
+🌱 &nbsp;Me encuentro repasando y aprendiendo JavaScript en profundidad.\
 ✍️ &nbsp;En mi tiempo libre lo dedico a seguis estudiando, jugar algun VideoJuego y en la construccion de mi Casa.\
 ✉️ &nbsp;Puedes enviarme un correo electronico a ariellopez_306@hotmail.com ! tratare de responder lo mas pronto posible.\
 📄 &nbsp;Puedes echar un vistazo a mi perfil de [Linkedin](https://www.linkedin.com/in/ariel-fernando-lopez) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias para seguir creciendo!
